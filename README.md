@@ -19,8 +19,8 @@ canvas-sketch random-worm.js --open
 
 ## How to use
 
-- `Cmd+R` Refresh the browser window to get a new generative output.
-- `Cmd+S` Save output as a .PNG image.
+- `Cmd+R` Refresh the browser window to generate a new output.
+- `Cmd+S` Save the output as a .PNG image.
 
 ---
 
